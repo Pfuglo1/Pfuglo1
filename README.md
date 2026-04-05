@@ -1,124 +1,260 @@
+<!-- ████████████████████████████████████████████████████████████
+     PATRICIA M. FUGLO — GITHUB PROFILE README
+     Data Scientist · ML Engineer · Columbia University FinTech
+     ████████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pfuglo1&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20Python%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:001a33,100:000d1a&height=220&section=header&text=PATRICIA%20M.%20FUGLO&fontSize=52&fontColor=00d4ff&fontAlignY=42&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Columbia%20FinTech&descAlignY=62&descSize=16&descColor=7ecfff&animation=scaleIn&stroke=00d4ff&strokeWidth=1" />
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Insights+%F0%9F%A7%A0;Building+ML+Models+that+Matter+%F0%9F%A4%96;Python+%7C+Data+Science+%7C+Git+%26+GitHub;Always+Learning.+Always+Building.+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Turning+Clinical+Data+into+Life-Saving+Predictions+%F0%9F%A9%BA;XGBoost+%7C+Random+Forest+%7C+Deep+Learning+%7C+SVM;10+End-to-End+ML+Pipelines+%E2%80%94+Deployed+%26+Validated;Healthcare+%2B+FinTech+%2B+Machine+Learning+%3D+Me+%F0%9F%94%AC;Columbia+University+FinTech+%7C+New+York%2C+NY)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-![Profile Views](https://komarev.com/ghpvc/?username=Pfuglo1&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Pfuglo1?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/Pfuglo1?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=Pfuglo1&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Pfuglo1?style=for-the-badge&color=00d4ff&labelColor=000d1a&label=FOLLOWERS)](https://github.com/Pfuglo1?tab=followers)
+&nbsp;
+[![GitHub Repos](https://img.shields.io/badge/REPOS-62-00d4ff?style=for-the-badge&labelColor=000d1a)](https://github.com/Pfuglo1?tab=repositories)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧬 About Me
+## `> whoami`
 
 ```python
-class DataScientist:
-    def __init__(self):
-        self.name        = "Pfuglo1"
-        self.role        = "Data Scientist"
-        self.languages   = ["Python", "SQL", "Bash"]
-        self.tools       = ["Git", "GitHub", "Jupyter", "Pandas", "NumPy"]
-        self.interests   = ["Machine Learning", "Data Visualization", "Fintech"]
-        self.currently   = "Building projects that bridge data and decisions"
-        self.fun_fact    = "I debug more than I code — and I'm proud of it 🐛"
+#!/usr/bin/env python3
+# ─────────────────────────────────────────────────────────────────────────────
+#  PATRICIA M. FUGLO  |  Data Scientist & ML Engineer  |  New York, NY
+# ─────────────────────────────────────────────────────────────────────────────
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great together.")
+class PatriciaFuglo:
 
-me = DataScientist()
-me.say_hi()
+    name         = "Patricia M. Fuglo"
+    title        = "Data Scientist & ML Engineer"
+    education    = [
+        "Columbia University — FinTech Bootcamp (2023)",
+        "Long Island University  — B.S. Nursing",
+        "Lehman College          — Health Service Administration",
+    ]
+    skills = {
+        "languages"   : ["Python (95%)", "SQL (88%)", "Java (72%)"],
+        "ml_stack"    : ["Scikit-Learn", "XGBoost", "PyTorch", "Keras/TensorFlow"],
+        "data_tools"  : ["Pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn"],
+        "bi_tools"    : ["Power BI", "Tableau"],
+        "deployment"  : ["Pickle", "CLI Pipelines", "Jupyter Notebooks"],
+        "versioning"  : ["Git", "GitHub"],
+    }
+    certifications = [
+        "🐍 Python Programming  — Meta",
+        "🗄️  SQL                 — Microsoft",
+        "🤖 Data Science        — IBM",
+    ]
+    domains      = ["Healthcare AI", "FinTech", "Cardiology", "Nephrology", "Oncology"]
+    open_to      = "Remote & Hybrid Data Science / ML Engineering Roles"
+    contact      = "pfuglo1@gmail.com"
+    linkedin     = "linkedin.com/in/patriciafuglo"
+
+    def mission(self):
+        return (
+            "When analytical thinking meets heartfelt empathy, "
+            "that's where the most meaningful data stories begin."
+        )
+
+me = PatriciaFuglo()
+print(me.mission())
 ```
 
 ---
 
-## 🚀 Tech Stack & Tools
+## `> skills --list`
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python_95%25-000d1a?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL_88%25-000d1a?style=for-the-badge&logo=postgresql&logoColor=00d4ff)
+![Java](https://img.shields.io/badge/Java_72%25-000d1a?style=for-the-badge&logo=openjdk&logoColor=f89820)
+
+### ML / Deep Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn_92%25-000d1a?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost_88%25-000d1a?style=for-the-badge&logo=python&logoColor=00d4ff)
+![PyTorch](https://img.shields.io/badge/PyTorch_80%25-000d1a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/Keras%2FTensorFlow_78%25-000d1a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+
+### Data & Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas_94%25-000d1a?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy_94%25-000d1a?style=for-the-badge&logo=numpy&logoColor=4DABCF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib_90%25-000d1a?style=for-the-badge&logo=python&logoColor=00d4ff)
+![Seaborn](https://img.shields.io/badge/Seaborn_90%25-000d1a?style=for-the-badge&logo=python&logoColor=7ecfff)
+![SciPy](https://img.shields.io/badge/SciPy_82%25-000d1a?style=for-the-badge&logo=scipy&logoColor=8CAAE6)
+![Power BI](https://img.shields.io/badge/Power_BI_75%25-000d1a?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/Tableau_75%25-000d1a?style=for-the-badge&logo=tableau&logoColor=E97627)
+
+### Toolchain
+
+![Git](https://img.shields.io/badge/Git-000d1a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000d1a?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000d1a?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![VS Code](https://img.shields.io/badge/VS_Code-000d1a?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+## `> ls ./projects`
+
+> 10 production-grade, end-to-end ML pipelines — spanning healthcare, logistics, real estate & social media.
+
+<br/>
+
+| # | Project | Domain | Best Model | Score |
+|---|---------|--------|------------|-------|
+| 01 | [**🦴 Fossil Age Prediction**](https://github.com/Pfuglo1/fossil-age-prediction) | Paleontology · Regression | XGBoost | R² = 0.9865 |
+| 02 | [**🛍️ Customer Spending Prediction**](https://github.com/Pfuglo1/customer-spending-prediction) | E-Commerce · Regression | Linear Regression | R² = 0.977 |
+| 03 | [**🦷 Oral Cancer Diagnosis**](https://github.com/Pfuglo1/oral-cancer-prediction) | Oncology · Classification | Random Forest | Acc = 100% |
+| 04 | [**🏠 House Price Prediction**](https://github.com/Pfuglo1/house-price-prediction) | Real Estate · Regression | Linear Regression + RF | Full Pipeline |
+| 05 | [**❤️ Heart Disease Risk (ECG)**](https://github.com/Pfuglo1/ecg-heart-disease-classification) | Cardiology · Classification | Decision Tree | Precision = 1.000 |
+| 06 | [**📦 Delivery Cost Prediction**](https://github.com/Pfuglo1/delivery-cost-prediction) | Logistics · Regression | Random Forest | R² = 0.99994 |
+| 07 | [**🩸 Anemia Detection (CBC)**](https://github.com/Pfuglo1/anemia-detection-cbc-ml) | Hematology · Classification | RF + SMOTE | Max Recall |
+| 08 | [**💉 BP-Load Prediction (ABPM)**](https://github.com/Pfuglo1/bp-load-classification-ml) | Cardiology · Classification | Random Forest | Full Pipeline |
+| 09 | [**🫘 CKD Classification & GFR Regression**](https://github.com/Pfuglo1/End-to-End-Machine-Learning-System-for-CKD-Classification-GFR-Regression) | Nephrology · Dual-Task | XGBoost + Linear Reg | Clinical Thresholds |
+| 10 | [**📸 Instagram Likes Prediction**](https://github.com/Pfuglo1/Predicting-Instagram-Likes-Using-Regression) | Social Media · Regression | Linear Regression | Production Pipeline |
+
+---
+
+## `> cat algorithms.log`
+
+```
+SUPERVISED LEARNING
+├── Regression
+│   ├── Linear Regression  ─── OLS · Ridge · Lasso
+│   ├── Random Forest Regressor
+│   ├── XGBoost Regressor
+│   └── Gradient Boosting  ─── Sequential ensemble learning
+│
+└── Classification
+    ├── Logistic Regression    ── Binary & multi-class
+    ├── Decision Tree          ── Interpretable, feature importance
+    ├── Random Forest          ── Ensemble, SMOTE-balanced
+    ├── XGBoost                ── Boosted trees, clinical-grade
+    ├── Gradient Boosting      ── Benchmarked vs XGBoost
+    ├── K-Nearest Neighbors    ── Instance-based pattern recognition
+    └── Support Vector Machine ── High-dimensional hyperplane classifier
+
+UNSUPERVISED LEARNING
+└── K-Means Clustering ─── Customer behavior segmentation
+
+TECHNIQUES
+├── RFE  (Recursive Feature Elimination)
+├── SMOTE (Synthetic Minority Oversampling)
+├── Cross-Validation & Hypothesis Testing
+├── ROC-AUC, Precision-Recall Curves
+└── Pickle Deployment Pipelines
+```
+
+---
+
+## `> stats --github`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0f0c29?style=for-the-badge&logo=jupyter&logoColor=F37626)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0f0c29?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA)
-![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0f0c29?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-0f0c29?style=for-the-badge&logo=linux&logoColor=FCC624)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Pfuglo1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000d1a&title_color=00d4ff&icon_color=00d4ff&text_color=7ecfff&ring_color=00d4ff"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pfuglo1&layout=compact&hide_border=true&bg_color=000d1a&title_color=00d4ff&text_color=7ecfff"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pfuglo1&theme=dark&hide_border=true&background=000d1a&ring=00d4ff&fire=00d4ff&currStreakLabel=7ecfff&sideLabels=7ecfff&dates=4a8fa8&currStreakNum=00d4ff&sideNums=00d4ff)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## `> trophies --display`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pfuglo1&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pfuglo1&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pfuglo1&theme=midnight-purple&hide_border=true&background=0f0c29&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pfuglo1&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `> activity --graph`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pfuglo1&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Patricia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pfuglo1&bg_color=000d1a&color=00d4ff&line=0077aa&point=00d4ff&area=true&area_color=002233&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## `> certifications --verified`
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Pfuglo1&repo=portfolio&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)](https://github.com/Pfuglo1/portfolio)
-[![My Profile](https://github-readme-stats.vercel.app/api/pin/?username=Pfuglo1&repo=my-profile&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&icon_color=a78bfa)](https://github.com/Pfuglo1/my-profile)
+| Credential | Issuer | Status |
+|-----------|--------|--------|
+| 🐍 Python Programming | **Meta** | ✅ Certified |
+| 🗄️ SQL | **Microsoft** | ✅ Certified |
+| 🤖 Data Science | **IBM** | ✅ Certified |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## `> education --timeline`
+
+```
+Columbia University · FinTech Bootcamp (Jun – Nov 2023)
+├── Python · NumPy · Pandas · Scikit-Learn · TensorFlow · PyTorch
+├── ML Pipelines · Statistical Modeling · Data Visualisation
+└── Matplotlib · Seaborn · SciPy
+
+Long Island University · B.S. Nursing
+├── Community & Public Health Nursing
+└── Health Assessment · Patient-Centered Care
+
+Lehman College · Health Service Administration
+├── Health Care Management
+└── Health Policy & Planning
+```
+
+---
+
+## `> contact --open-to-work`
 
 <div align="center">
 
-[![Pfuglo1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pfuglo1&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**📡 Open to Remote & Hybrid Data Science / ML Engineering Opportunities**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/pfuglo1@gmail.com-000d1a?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:pfuglo1@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/patriciafuglo-000d1a?style=for-the-badge&logo=linkedin&logoColor=00d4ff)](https://linkedin.com/in/patriciafuglo)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Pfuglo1-000d1a?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/Pfuglo1)
+
+<br/>
+
+> *"When analytical thinking meets heartfelt empathy,*
+> *that's where the most meaningful data stories begin."*
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Pfuglo1-0f0c29?style=for-the-badge&logo=github&logoColor=white&labelColor=7c3aed)](https://github.com/Pfuglo1)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000d1a,60:001a33,100:000000&height=120&section=footer&animation=fadeIn&fontColor=00d4ff" />
 
-> 💡 *"Without data, you're just another person with an opinion." — W. Edwards Deming*
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+**`[ Patricia M. Fuglo · Data Scientist · ML Engineer · New York, NY · © 2026 ]`**
 
 </div>
